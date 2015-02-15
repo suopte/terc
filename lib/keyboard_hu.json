@@ -1,0 +1,645 @@
+{
+    "gap_width": 1.5,
+    "key_row_list": [
+        {
+            "key_list": [
+                {
+                    "name": "Esc",
+                    "value": "0xff1b",
+                    "label": "ESC",
+                    "width": 15,
+                    "height": 8
+                },
+                {
+                    "name": "F1",
+                    "value": "0xffbe",
+                    "label": "F1",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F2",
+                    "value": "0xffbf",
+                    "label": "F2",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F3",
+                    "value": "0xffc0",
+                    "label": "F3",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F4",
+                    "value": "0xffc1",
+                    "label": "F4",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F5",
+                    "value": "0xffc2",
+                    "label": "F5",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F6",
+                    "value": "0xffc3",
+                    "label": "F6",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F7",
+                    "value": "0xffc4",
+                    "label": "F7",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F8",
+                    "value": "0xffc5",
+                    "label": "F8",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F9",
+                    "value": "0xffc6",
+                    "label": "F9",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F10",
+                    "value": "0xffc7",
+                    "label": "F10",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F11",
+                    "value": "0xffc8",
+                    "label": "F11",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "F12",
+                    "value": "0xffc9",
+                    "label": "F12",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "Pause",
+                    "value": "0xff13",
+                    "label": "Pause",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "Print Screen",
+                    "value": "0xff61",
+                    "label": "PrtSc",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "Insert",
+                    "value": "0xff63",
+                    "label": "Ins",
+                    "width": 12.5,
+                    "height": 8
+                },
+                {
+                    "name": "Delete",
+                    "value": "0xff9f",
+                    "label": "Del",
+                    "width": 15,
+                    "height": 8
+                }
+            ]
+        },
+        {
+            "key_list": [
+                {
+                    "name": "0",
+                    "value": "0x0030",
+                    "label": "0",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "1",
+                    "value": "0x0031",
+                    "label": "1",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "2",
+                    "value": "0x0032",
+                    "label": "2",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "3",
+                    "value": "0x0033",
+                    "label": "3",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "4",
+                    "value": "0x0034",
+                    "label": "4",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "5",
+                    "value": "0x0035",
+                    "label": "5",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "6",
+                    "value": "0x0036",
+                    "label": "6",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "7",
+                    "value": "0x0037",
+                    "label": "7",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "8",
+                    "value": "0x0038",
+                    "label": "8",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "9",
+                    "value": "0x0039",
+                    "label": "9",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ö",
+                    "value": "0x00f6",
+                    "label": "Ö",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ü",
+                    "value": "0x00fc",
+                    "label": "Ü",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ó",
+                    "value": "0x00f3",
+                    "label": "Ó",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Backspace",
+                    "value": "0xff08",
+                    "label": "<-",
+                    "width": 27,
+                    "height": 15
+                },
+                {
+                    "name": "Home",
+                    "value": "0xff50",
+                    "label": "Home",
+                    "width": 15,
+                    "height": 15
+                }
+            ]
+        },
+        {
+            "key_list": [
+                {
+                    "name": "Tabulator",
+                    "value": "0xff89",
+                    "label": "Tab",
+                    "width": 23,
+                    "height": 15
+                },
+                {
+                    "name": "Q",
+                    "value": "q",
+                    "label": "Q",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "W",
+                    "value": "w",
+                    "label": "W",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "E",
+                    "value": "e",
+                    "label": "E",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "R",
+                    "value": "r",
+                    "label": "R",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "T",
+                    "value": "t",
+                    "label": "T",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Z",
+                    "value": "z",
+                    "label": "Z",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "U",
+                    "value": "u",
+                    "label": "U",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "I",
+                    "value": "i",
+                    "label": "I",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "O",
+                    "value": "o",
+                    "label": "O",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "P",
+                    "value": "p",
+                    "label": "P",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ő",
+                    "value": "0x01f5",
+                    "label": "Ő",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ú",
+                    "value": "0x00fa",
+                    "label": "Ú",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Enter Upper",
+                    "value": "0xff0d",
+                    "label": "Ent",
+                    "width": 19,
+                    "height": 15
+                },
+                {
+                    "name": "Page Up",
+                    "value": "0xff55",
+                    "label": "PgUp",
+                    "width": 15,
+                    "height": 15
+                }
+            ]
+        },
+        {
+            "key_list": [
+                {
+                    "name": "Caps Lock",
+                    "value": "0xffe5",
+                    "label": "Caps Lock",
+                    "width": 27,
+                    "height": 15
+                },
+                {
+                    "name": "A",
+                    "value": "a",
+                    "label": "A",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "S",
+                    "value": "s",
+                    "label": "S",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "D",
+                    "value": "d",
+                    "label": "D",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "F",
+                    "value": "f",
+                    "label": "F",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "G",
+                    "value": "g",
+                    "label": "G",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "H",
+                    "value": "h",
+                    "label": "H",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "J",
+                    "value": "j",
+                    "label": "J",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "K",
+                    "value": "k",
+                    "label": "K",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "L",
+                    "value": "l",
+                    "label": "L",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "É",
+                    "value": "0x00e9",
+                    "label": "É",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Á",
+                    "value": "0x00e1",
+                    "label": "Á",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Ű",
+                    "value": "0x01fb",
+                    "label": "Ű",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Enter Lower",
+                    "value": "0xff0d",
+                    "label": "Ent",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Page Down",
+                    "value": "0xff56",
+                    "label": "PgDn",
+                    "width": 15,
+                    "height": 15
+                }
+            ]
+        },
+        {
+            "key_list": [
+                {
+                    "name": "Left Shift",
+                    "value": "0xffe1",
+                    "label": "Sh",
+                    "width": 18,
+                    "height": 15
+                },
+                {
+                    "name": "Í",
+                    "value": "0x00ed",
+                    "label": "Í",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Y",
+                    "value": "y",
+                    "label": "Y",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "X",
+                    "value": "x",
+                    "label": "X",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "C",
+                    "value": "c",
+                    "label": "C",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "V",
+                    "value": "v",
+                    "label": "V",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "B",
+                    "value": "b",
+                    "label": "B",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "N",
+                    "value": "n",
+                    "label": "N",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "M",
+                    "value": "m",
+                    "label": "M",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Comma",
+                    "value": "0x002c",
+                    "label": ",",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Dot",
+                    "value": "0x002e",
+                    "label": ".",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Dash",
+                    "value": "0x002d",
+                    "label": "-",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Right Shift",
+                    "value": "0xffe2",
+                    "label": "Sh",
+                    "width": 23,
+                    "height": 15
+                },
+                {
+                    "name": "Up",
+                    "value": "0xff52",
+                    "label": "^",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "End",
+                    "value": "0xff57",
+                    "label": "End",
+                    "width": 15,
+                    "height": 15
+                }
+            ]
+        },
+        {
+            "key_list": [
+                {
+                    "name": "Left Control",
+                    "value": "0xffe3",
+                    "label": "Ctrl",
+                    "width": 18,
+                    "height": 15
+                },
+                {
+                    "name": "Function",
+                    "value": "",
+                    "label": "Fn",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Windows",
+                    "value": "",
+                    "label": "Win",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Left Alt",
+                    "value": "0xffe9",
+                    "label": "Alt",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Space",
+                    "value": "0x0020",
+                    "label": "",
+                    "width": 85,
+                    "height": 15
+                },
+                {
+                    "name": "Alt Gr",
+                    "value": "0xffe9",
+                    "label": "AltGr",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Popup",
+                    "value": "",
+                    "label": "Pu",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Right Control",
+                    "value": "0xffe4",
+                    "label": "Ctrl",
+                    "width": 23,
+                    "height": 15
+                },
+                {
+                    "name": "Left",
+                    "value": "0xff51",
+                    "label": "<",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Down",
+                    "value": "0xff54",
+                    "label": "v",
+                    "width": 15,
+                    "height": 15
+                },
+                {
+                    "name": "Right",
+                    "value": "0xff53",
+                    "label": ">",
+                    "width": 15,
+                    "height": 15
+                }
+            ]
+        }
+    ]
+}
