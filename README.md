@@ -7,9 +7,17 @@ UI has been simplified and extended with a full (currently only Hungarian) keybo
 
 License
 -------
-
 This software is published under the GNU GPL with the "feeling of harmony".  
 ([Richard Stallman - The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html#why-help)).
+
+Prerequisites, installation
+---------------------------
+On Debian based distributions you can install needed packages and teRC like this:
+
+	# apt-get install nodejs npm
+	$ git clone https://github.com/suopte/terc.git
+	$ cd terc
+	$ npm install express ws
 
 Autostart on login
 ------------------
